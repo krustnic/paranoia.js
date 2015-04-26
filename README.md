@@ -6,19 +6,19 @@ Usage:
 // Check that all images loaded
 $(window).load(function() {
     ParanoiaJS.add( "#img1", {
-        x : 60,
-        y : 30,   
-        size : 100,
+        x         : 60,
+        y         : 30,   
+        size      : 100,
         appleSize : 20,
-        color : "#FFFFFF"
+        color     : "#FFFFFF"
     } );        
 
     ParanoiaJS.add( "#img1", {
-        x : 115,
-        y : 30,
-        size : 100,
+        x         : 115,
+        y         : 30,
+        size      : 100,
         appleSize : 20,
-        color : "#FFFFFF"
+        color     : "#FFFFFF"
     } );        
 });
 
