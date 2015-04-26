@@ -1,0 +1,26 @@
+{
+  "name": "ParanoiaJS",
+  "version": "1.0.0",
+  "description": "Simple and funny library that adds eyes that follow your cursor.",
+  "main": "paranoia.min.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-uglify": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eyes",
+    "follow",
+    "cursor",
+    "paranoia"
+  ],
+  "author": "krustnic",
+  "license": "ISC"
+}
